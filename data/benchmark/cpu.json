@@ -1,0 +1,625 @@
+{"name_product":" Intel Xeon E5-2679 v4 @ 2.50GHz ","reiting":"  25,236     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2699 v4 @ 2.20GHz ","reiting":"  23,344     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2699 v3 @ 2.30GHz ","reiting":"  22,645     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2696 v3 @ 2.30GHz ","reiting":"  22,277     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2696 v4 @ 2.20GHz ","reiting":"  22,197     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2690 v4 @ 2.60GHz ","reiting":"  21,806     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2698 v4 @ 2.20GHz ","reiting":"  21,789     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2697 v3 @ 2.60GHz ","reiting":"  21,608     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2697 v4 @ 2.30GHz ","reiting":"  21,356     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2698 v3 @ 2.30GHz ","reiting":"  21,149     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2673 v4 @ 2.30GHz ","reiting":"  21,073     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2695 v4 @ 2.10GHz ","reiting":"  20,582     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2695 v3 @ 2.30GHz ","reiting":"  20,431     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2687W v4 @ 3.00GHz ","reiting":"  20,130     ","type":"cpu"}
+{"name_product":" Intel Core i7-6950X @ 3.00GHz ","reiting":"  20,030     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2680 v4 @ 2.40GHz ","reiting":"  19,905     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2689 v4 @ 3.10GHz ","reiting":"  19,708     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2690 v3 @ 2.60GHz ","reiting":"  19,362     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2686 v3 @ 2.00GHz ","reiting":"  19,255     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2660 v4 @ 2.00GHz ","reiting":"  18,816     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2680 v3 @ 2.50GHz ","reiting":"  18,761     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-1681 v3 @ 2.90GHz ","reiting":"  18,367     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2676 v3 @ 2.40GHz ","reiting":"  17,795     ","type":"cpu"}
+{"name_product":" Intel Core i7-6900K @ 3.20GHz ","reiting":"  17,794     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2687W v3 @ 3.10GHz ","reiting":"  17,779     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2683 v3 @ 2.00GHz ","reiting":"  17,504     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2697 v2 @ 2.70GHz ","reiting":"  17,321     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-1680 v2 @ 3.00GHz ","reiting":"  17,201     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2673 v3 @ 2.40GHz ","reiting":"  16,904     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-1680 v4 @ 3.40GHz ","reiting":"  16,684     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2696 v2 @ 2.50GHz ","reiting":"  16,681     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-1680 v3 @ 3.20GHz ","reiting":"  16,673     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2678 v3 @ 2.50GHz ","reiting":"  16,618     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2687W v2 @ 3.40GHz ","reiting":"  16,559     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2670 v3 @ 2.30GHz ","reiting":"  16,549     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2690 v2 @ 3.00GHz ","reiting":"  16,546     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2667 v2 @ 3.30GHz ","reiting":"  16,512     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2658 v3 @ 2.20GHz ","reiting":"  16,511     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2680 v2 @ 2.80GHz ","reiting":"  16,341     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-1660 v4 @ 3.20GHz ","reiting":"  16,334     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2673 v2 @ 3.30GHz ","reiting":"  16,320     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2658 v4 @ 2.30GHz ","reiting":"  16,290     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2660 v3 @ 2.60GHz ","reiting":"  16,161     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2667 v3 @ 3.20GHz ","reiting":"  16,125     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2692 v2 @ 2.20GHz ","reiting":"  16,018     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2650 v4 @ 2.20GHz ","reiting":"  15,994     ","type":"cpu"}
+{"name_product":" Intel Core i7-5960X @ 3.00GHz ","reiting":"  15,976     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2667 v4 @ 3.20GHz ","reiting":"  15,916     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2695 v2 @ 2.40GHz ","reiting":"  15,708     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-4627 v4 @ 2.60GHz ","reiting":"  15,516     ","type":"cpu"}
+{"name_product":" AMD Ryzen 7 1800X ","reiting":"  15,365     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2675 v3 @ 1.80GHz ","reiting":"  15,275     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2640 v4 @ 2.40GHz ","reiting":"  15,041     ","type":"cpu"}
+{"name_product":" Intel Xeon D-1567 @ 2.10GHz ","reiting":"  15,028     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2670 v2 @ 2.50GHz ","reiting":"  14,975     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2650 v3 @ 2.30GHz ","reiting":"  14,951     ","type":"cpu"}
+{"name_product":" AMD Ryzen 7 1700X ","reiting":"  14,723     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2687W @ 3.10GHz ","reiting":"  14,401     ","type":"cpu"}
+{"name_product":" Intel Core i7-6850K @ 3.60GHz ","reiting":"  14,364     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-1660 v3 @ 3.00GHz ","reiting":"  14,277     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-1650 v4 @ 3.60GHz ","reiting":"  14,277     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-4627 v3 @ 2.60GHz ","reiting":"  14,219     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2690 @ 2.90GHz ","reiting":"  14,191     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2630 v4 @ 2.20GHz ","reiting":"  14,174     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2685 v3 @ 2.60GHz ","reiting":"  14,154     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2658 v2 @ 2.40GHz ","reiting":"  14,128     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2640 v3 @ 2.60GHz ","reiting":"  14,117     ","type":"cpu"}
+{"name_product":" Intel Core i7-4960X @ 3.60GHz ","reiting":"  13,866     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2643 v3 @ 3.40GHz ","reiting":"  13,852     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2663 v3 @ 2.80GHz ","reiting":"  13,802     ","type":"cpu"}
+{"name_product":" AMD Ryzen 7 1700 ","reiting":"  13,800     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2689 @ 2.60GHz ","reiting":"  13,747     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-1660 v2 @ 3.70GHz ","reiting":"  13,735     ","type":"cpu"}
+{"name_product":" Intel Core i7-5930K @ 3.50GHz ","reiting":"  13,642     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-4669 v4 @ 2.20GHz ","reiting":"  13,626     ","type":"cpu"}
+{"name_product":" Intel Core i7-6800K @ 3.40GHz ","reiting":"  13,619     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-1650 v3 @ 3.50GHz ","reiting":"  13,552     ","type":"cpu"}
+{"name_product":" Intel Xeon D-1587 @ 1.70GHz ","reiting":"  13,489     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2643 v4 @ 3.40GHz ","reiting":"  13,411     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2660 v2 @ 2.20GHz ","reiting":"  13,264     ","type":"cpu"}
+{"name_product":" AMD Ryzen 5 1600X ","reiting":"  13,139     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2650L v3 @ 1.80GHz ","reiting":"  13,131     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2650 v2 @ 2.60GHz ","reiting":"  13,117     ","type":"cpu"}
+{"name_product":" Intel Core i7-4930K @ 3.40GHz ","reiting":"  13,066     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2628L v4 @ 1.90GHz ","reiting":"  13,041     ","type":"cpu"}
+{"name_product":" Intel Core i7-5820K @ 3.30GHz ","reiting":"  12,994     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2680 @ 2.70GHz ","reiting":"  12,931     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2630L v4 @ 1.80GHz ","reiting":"  12,847     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2630 v3 @ 2.40GHz ","reiting":"  12,822     ","type":"cpu"}
+{"name_product":" Intel Core i7-3960X @ 3.30GHz ","reiting":"  12,696     ","type":"cpu"}
+{"name_product":" Intel Core i7-3970X @ 3.50GHz ","reiting":"  12,642     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-1650 v2 @ 3.50GHz ","reiting":"  12,629     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-1660 @ 3.30GHz ","reiting":"  12,518     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2618L v3 @ 2.30GHz ","reiting":"  12,508     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2628L v3 @ 2.00GHz ","reiting":"  12,405     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2670 @ 2.60GHz ","reiting":"  12,334     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2648L v3 @ 1.80GHz ","reiting":"  12,332     ","type":"cpu"}
+{"name_product":" AMD Ryzen 5 1600 ","reiting":"  12,288     ","type":"cpu"}
+{"name_product":" Intel Core i7-7700K @ 4.20GHz ","reiting":"  12,231     ","type":"cpu"}
+{"name_product":" Intel Core i7-3930K @ 3.20GHz ","reiting":"  12,032     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2665 @ 2.40GHz ","reiting":"  11,986     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-4650 @ 2.70GHz ","reiting":"  11,960     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-1650 @ 3.20GHz ","reiting":"  11,809     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2643 v2 @ 3.50GHz ","reiting":"  11,735     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2620 v4 @ 2.10GHz ","reiting":"  11,376     ","type":"cpu"}
+{"name_product":" Intel Xeon D-1541 @ 2.10GHz ","reiting":"  11,333     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1285L v4 @ 3.40GHz ","reiting":"  11,224     ","type":"cpu"}
+{"name_product":" Intel Core i7-4790K @ 4.00GHz ","reiting":"  11,197     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2660 @ 2.20GHz ","reiting":"  11,188     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2651 v2 @ 1.80GHz ","reiting":"  11,176     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2470 @ 2.30GHz ","reiting":"  11,149     ","type":"cpu"}
+{"name_product":" Intel Core i7-6700K @ 4.00GHz ","reiting":"  11,118     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1280 v6 @ 3.90GHz ","reiting":"  11,104     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1535M v6 @ 3.10GHz ","reiting":"  11,082     ","type":"cpu"}
+{"name_product":" Intel Core i7-5775C @ 3.30GHz ","reiting":"  11,035     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1575M v5 @ 3.00GHz ","reiting":"  10,988     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2629 v3 @ 2.40GHz ","reiting":"  10,984     ","type":"cpu"}
+{"name_product":" Intel Core i7-7920HQ @ 3.10GHz ","reiting":"  10,900     ","type":"cpu"}
+{"name_product":" Intel Core i7-5950HQ @ 2.90GHz ","reiting":"  10,888     ","type":"cpu"}
+{"name_product":" Intel Core i7-5775R @ 3.30GHz ","reiting":"  10,851     ","type":"cpu"}
+{"name_product":" Intel Core i7-7700 @ 3.60GHz ","reiting":"  10,836     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1545M v5 @ 2.90GHz ","reiting":"  10,611     ","type":"cpu"}
+{"name_product":" Intel Xeon D-1540 @ 2.00GHz ","reiting":"  10,573     ","type":"cpu"}
+{"name_product":" Intel Core i7-6700TE @ 2.40GHz ","reiting":"  10,514     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1515M v5 @ 2.80GHz ","reiting":"  10,509     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1280 v5 @ 3.70GHz ","reiting":"  10,502     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2630 v2 @ 2.60GHz ","reiting":"  10,452     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2667 @ 2.90GHz ","reiting":"  10,380     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1240 v5 @ 3.50GHz ","reiting":"  10,362     ","type":"cpu"}
+{"name_product":" AMD Ryzen 5 1500X ","reiting":"  10,350     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1245 v5 @ 3.50GHz ","reiting":"  10,336     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1275 v5 @ 3.60GHz ","reiting":"  10,328     ","type":"cpu"}
+{"name_product":" AMD FX-9590 Eight-Core ","reiting":"  10,327     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2637 v3 @ 3.50GHz ","reiting":"  10,281     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2650 @ 2.00GHz ","reiting":"  10,262     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1285 v3 @ 3.60GHz ","reiting":"  10,252     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1276 v3 @ 3.60GHz ","reiting":"  10,247     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-1630 v3 @ 3.70GHz ","reiting":"  10,239     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-1630 v4 @ 3.70GHz ","reiting":"  10,211     ","type":"cpu"}
+{"name_product":" Intel Core i7-7820HK @ 2.90GHz ","reiting":"  10,208     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1281 v3 @ 3.70GHz ","reiting":"  10,193     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2450 @ 2.10GHz ","reiting":"  10,186     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1270 v5 @ 3.60GHz ","reiting":"  10,186     ","type":"cpu"}
+{"name_product":" Intel Core i7-4770K @ 3.50GHz ","reiting":"  10,115     ","type":"cpu"}
+{"name_product":" AMD Opteron 6380 ","reiting":"  10,082     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-1620 v4 @ 3.50GHz ","reiting":"  10,070     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1260L v5 @ 2.90GHz ","reiting":"  10,067     ","type":"cpu"}
+{"name_product":" Intel Core i7-4980HQ @ 2.80GHz ","reiting":"  10,051     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1271 v3 @ 3.60GHz ","reiting":"  10,046     ","type":"cpu"}
+{"name_product":" Intel Core i7-6700 @ 3.40GHz ","reiting":"  10,038     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1241 v3 @ 3.50GHz ","reiting":"  10,036     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1505M v6 @ 3.00GHz ","reiting":"  10,011     ","type":"cpu"}
+{"name_product":" Intel Core i7-4790 @ 3.60GHz ","reiting":"  10,001     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1246 v3 @ 3.50GHz ","reiting":"  9,995     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2620 v3 @ 2.40GHz ","reiting":"  9,986     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1285L v3 @ 3.10GHz ","reiting":"  9,984     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2640 v2 @ 2.00GHz ","reiting":"  9,914     ","type":"cpu"}
+{"name_product":" Intel Core i7-4940MX @ 3.10GHz ","reiting":"  9,901     ","type":"cpu"}
+{"name_product":" Intel Core i7-4771 @ 3.50GHz ","reiting":"  9,869     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1290 V2 @ 3.70GHz ","reiting":"  9,862     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2637 v4 @ 3.50GHz ","reiting":"  9,858     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1275 v3 @ 3.50GHz ","reiting":"  9,847     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1270 v3 @ 3.50GHz ","reiting":"  9,831     ","type":"cpu"}
+{"name_product":" Intel Core i7-4770R @ 3.20GHz ","reiting":"  9,826     ","type":"cpu"}
+{"name_product":" Intel Core i7-4770 @ 3.40GHz ","reiting":"  9,801     ","type":"cpu"}
+{"name_product":" Intel Core i7-995X @ 3.60GHz ","reiting":"  9,791     ","type":"cpu"}
+{"name_product":" Intel Core i7-4960HQ @ 2.60GHz ","reiting":"  9,770     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1280 v3 @ 3.60GHz ","reiting":"  9,755     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1280 V2 @ 3.60GHz ","reiting":"  9,746     ","type":"cpu"}
+{"name_product":" Intel Core i7-4820K @ 3.70GHz ","reiting":"  9,741     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-1620 v3 @ 3.50GHz ","reiting":"  9,739     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1230 v5 @ 3.40GHz ","reiting":"  9,708     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1240 v3 @ 3.40GHz ","reiting":"  9,704     ","type":"cpu"}
+{"name_product":" Intel Core i7-6920HQ @ 2.90GHz ","reiting":"  9,691     ","type":"cpu"}
+{"name_product":" Intel Core i7-6770HQ @ 2.60GHz ","reiting":"  9,685     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1231 v3 @ 3.40GHz ","reiting":"  9,634     ","type":"cpu"}
+{"name_product":" Intel Core i7-7700T @ 2.90GHz ","reiting":"  9,626     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2640 @ 2.50GHz ","reiting":"  9,618     ","type":"cpu"}
+{"name_product":" Intel Core i7-7820HQ @ 2.90GHz ","reiting":"  9,615     ","type":"cpu"}
+{"name_product":" Intel Core i7-4790S @ 3.20GHz ","reiting":"  9,601     ","type":"cpu"}
+{"name_product":" AMD Opteron 6287 SE ","reiting":"  9,595     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1245 v3 @ 3.40GHz ","reiting":"  9,568     ","type":"cpu"}
+{"name_product":" Intel Core i7-3770K @ 3.50GHz ","reiting":"  9,548     ","type":"cpu"}
+{"name_product":" AMD FX-9370 Eight-Core ","reiting":"  9,525     ","type":"cpu"}
+{"name_product":" Intel Core i7-4930MX @ 3.00GHz ","reiting":"  9,521     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-1620 v2 @ 3.70GHz ","reiting":"  9,493     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2658 @ 2.10GHz ","reiting":"  9,484     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1270 V2 @ 3.50GHz ","reiting":"  9,469     ","type":"cpu"}
+{"name_product":" Intel Core i7-5850HQ @ 2.70GHz ","reiting":"  9,459     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2637 v2 @ 3.50GHz ","reiting":"  9,452     ","type":"cpu"}
+{"name_product":" Intel Xeon W3690 @ 3.47GHz ","reiting":"  9,450     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2440 v2 @ 1.90GHz ","reiting":"  9,425     ","type":"cpu"}
+{"name_product":" Intel Core i7-4910MQ @ 2.90GHz ","reiting":"  9,415     ","type":"cpu"}
+{"name_product":" AMD Opteron 6376 ","reiting":"  9,414     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2628L v2 @ 1.90GHz ","reiting":"  9,405     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1286 v3 @ 3.70GHz ","reiting":"  9,388     ","type":"cpu"}
+{"name_product":" Intel Core i7-4870HQ @ 2.50GHz ","reiting":"  9,341     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1275 V2 @ 3.50GHz ","reiting":"  9,334     ","type":"cpu"}
+{"name_product":" Intel Core i7-3940XM @ 3.00GHz ","reiting":"  9,331     ","type":"cpu"}
+{"name_product":" Intel Core i7-4770S @ 3.10GHz ","reiting":"  9,325     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2440 @ 2.40GHz ","reiting":"  9,319     ","type":"cpu"}
+{"name_product":" Intel Core i5-7600K @ 3.80GHz ","reiting":"  9,316     ","type":"cpu"}
+{"name_product":" Intel Core i7-3770 @ 3.40GHz ","reiting":"  9,314     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1230 v3 @ 3.30GHz ","reiting":"  9,309     ","type":"cpu"}
+{"name_product":" Intel Core i7-4860HQ @ 2.40GHz ","reiting":"  9,297     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1535M v5 @ 2.90GHz ","reiting":"  9,263     ","type":"cpu"}
+{"name_product":" Intel Xeon W3680 @ 3.33GHz ","reiting":"  9,235     ","type":"cpu"}
+{"name_product":" Intel Core i7-3920XM @ 2.90GHz ","reiting":"  9,224     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1240 V2 @ 3.40GHz ","reiting":"  9,211     ","type":"cpu"}
+{"name_product":" Intel Core i7-990X @ 3.47GHz ","reiting":"  9,164     ","type":"cpu"}
+{"name_product":" AMD Opteron 6282 SE ","reiting":"  9,116     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2623 v3 @ 3.00GHz ","reiting":"  9,097     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-1620 @ 3.60GHz ","reiting":"  9,093     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1245 V2 @ 3.40GHz ","reiting":"  9,091     ","type":"cpu"}
+{"name_product":" Intel Core i7-4900MQ @ 2.80GHz ","reiting":"  9,087     ","type":"cpu"}
+{"name_product":" Intel Core i7-6820HK @ 2.70GHz ","reiting":"  9,085     ","type":"cpu"}
+{"name_product":" Intel Xeon X5690 @ 3.47GHz ","reiting":"  9,084     ","type":"cpu"}
+{"name_product":" Intel Core i7-4850HQ @ 2.30GHz ","reiting":"  9,062     ","type":"cpu"}
+{"name_product":" Intel Core i7-4790T @ 2.70GHz ","reiting":"  9,062     ","type":"cpu"}
+{"name_product":" Intel Core i7-6700T @ 2.80GHz ","reiting":"  9,043     ","type":"cpu"}
+{"name_product":" AMD Opteron 6276 ","reiting":"  9,011     ","type":"cpu"}
+{"name_product":" Intel Core i7-3820 @ 3.60GHz ","reiting":"  8,993     ","type":"cpu"}
+{"name_product":" AMD FX-8370 Eight-Core ","reiting":"  8,989     ","type":"cpu"}
+{"name_product":" Intel Core i7-7700HQ @ 2.80GHz ","reiting":"  8,982     ","type":"cpu"}
+{"name_product":" Intel Core i5-7600 @ 3.50GHz ","reiting":"  8,972     ","type":"cpu"}
+{"name_product":" AMD FX-8350 Eight-Core ","reiting":"  8,943     ","type":"cpu"}
+{"name_product":" Intel Core i7-4770HQ @ 2.20GHz ","reiting":"  8,935     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2630 @ 2.30GHz ","reiting":"  8,915     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1505M v5 @ 2.80GHz ","reiting":"  8,905     ","type":"cpu"}
+{"name_product":" Intel Core i7-980X @ 3.33GHz ","reiting":"  8,897     ","type":"cpu"}
+{"name_product":" Intel Core i7-3770S @ 3.10GHz ","reiting":"  8,877     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1230 V2 @ 3.30GHz ","reiting":"  8,849     ","type":"cpu"}
+{"name_product":" Intel Core i7-3840QM @ 2.80GHz ","reiting":"  8,839     ","type":"cpu"}
+{"name_product":" Intel Core i7-980 @ 3.33GHz ","reiting":"  8,810     ","type":"cpu"}
+{"name_product":" Intel Core i7-6820HQ @ 2.70GHz ","reiting":"  8,805     ","type":"cpu"}
+{"name_product":" Intel Core i7-2700K @ 3.50GHz ","reiting":"  8,769     ","type":"cpu"}
+{"name_product":" Intel Xeon X5680 @ 3.33GHz ","reiting":"  8,767     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1290 @ 3.60GHz ","reiting":"  8,704     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2620 v2 @ 2.10GHz ","reiting":"  8,693     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1265L v3 @ 2.50GHz ","reiting":"  8,691     ","type":"cpu"}
+{"name_product":" AMD Ryzen 5 1400 ","reiting":"  8,691     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2650L @ 1.80GHz ","reiting":"  8,676     ","type":"cpu"}
+{"name_product":" Intel Core i7-4770T @ 2.50GHz ","reiting":"  8,675     ","type":"cpu"}
+{"name_product":" Intel Core i7-4810MQ @ 2.80GHz ","reiting":"  8,655     ","type":"cpu"}
+{"name_product":" Intel Xeon X5679 @ 3.20GHz ","reiting":"  8,652     ","type":"cpu"}
+{"name_product":" Intel Xeon D-1528 @ 1.90GHz ","reiting":"  8,612     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2430 v2 @ 2.50GHz ","reiting":"  8,608     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2420 v2 @ 2.20GHz ","reiting":"  8,593     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1275L v3 @ 2.70GHz ","reiting":"  8,571     ","type":"cpu"}
+{"name_product":" Intel Xeon X5675 @ 3.07GHz ","reiting":"  8,556     ","type":"cpu"}
+{"name_product":" Intel Core i7-4800MQ @ 2.70GHz ","reiting":"  8,514     ","type":"cpu"}
+{"name_product":" Intel Core i7-3820QM @ 2.70GHz ","reiting":"  8,511     ","type":"cpu"}
+{"name_product":" Intel Core i7-2600K @ 3.40GHz ","reiting":"  8,486     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1280 @ 3.50GHz ","reiting":"  8,473     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2643 @ 3.30GHz ","reiting":"  8,467     ","type":"cpu"}
+{"name_product":" Intel Core i5-7600T @ 2.80GHz ","reiting":"  8,455     ","type":"cpu"}
+{"name_product":" Intel Core i7-6820EQ @ 2.80GHz ","reiting":"  8,454     ","type":"cpu"}
+{"name_product":" Intel Core i7-970 @ 3.20GHz ","reiting":"  8,451     ","type":"cpu"}
+{"name_product":" Intel Core i7-5700HQ @ 2.70GHz ","reiting":"  8,398     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1275 @ 3.40GHz ","reiting":"  8,348     ","type":"cpu"}
+{"name_product":" Intel Core i7-3740QM @ 2.70GHz ","reiting":"  8,345     ","type":"cpu"}
+{"name_product":" Intel Core i7-4760HQ @ 2.10GHz ","reiting":"  8,340     ","type":"cpu"}
+{"name_product":" Intel Xeon W3670 @ 3.20GHz ","reiting":"  8,299     ","type":"cpu"}
+{"name_product":" Intel Core i7-4750HQ @ 2.00GHz ","reiting":"  8,270     ","type":"cpu"}
+{"name_product":" Intel Core i7-5700EQ @ 2.60GHz ","reiting":"  8,239     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1270 @ 3.40GHz ","reiting":"  8,239     ","type":"cpu"}
+{"name_product":" Intel Core i7-2600 @ 3.40GHz ","reiting":"  8,224     ","type":"cpu"}
+{"name_product":" Intel Core i7-3770T @ 2.50GHz ","reiting":"  8,196     ","type":"cpu"}
+{"name_product":" Intel Core i7-5675C @ 3.10GHz ","reiting":"  8,164     ","type":"cpu"}
+{"name_product":" Intel Core i7-3720QM @ 2.60GHz ","reiting":"  8,151     ","type":"cpu"}
+{"name_product":" Intel Core i7-6700HQ @ 2.60GHz ","reiting":"  8,134     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-4620 @ 2.20GHz ","reiting":"  8,127     ","type":"cpu"}
+{"name_product":" Intel Core i5-5675C @ 3.10GHz ","reiting":"  8,101     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2623 v4 @ 2.60GHz ","reiting":"  8,061     ","type":"cpu"}
+{"name_product":" Intel Xeon X5670 @ 2.93GHz ","reiting":"  8,060     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1245 @ 3.30GHz ","reiting":"  8,058     ","type":"cpu"}
+{"name_product":" Intel Core i7-4722HQ @ 2.40GHz ","reiting":"  8,052     ","type":"cpu"}
+{"name_product":" Intel Core i7-4720HQ @ 2.60GHz ","reiting":"  8,029     ","type":"cpu"}
+{"name_product":" AMD FX-8320 Eight-Core ","reiting":"  8,017     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1240 @ 3.30GHz ","reiting":"  8,001     ","type":"cpu"}
+{"name_product":" Intel Core i5-6600K @ 3.50GHz ","reiting":"  7,996     ","type":"cpu"}
+{"name_product":" Intel Core i7-4710MQ @ 2.50GHz ","reiting":"  7,988     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2620 @ 2.00GHz ","reiting":"  7,971     ","type":"cpu"}
+{"name_product":" Intel Core i5-7500 @ 3.40GHz ","reiting":"  7,967     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1230 @ 3.20GHz ","reiting":"  7,943     ","type":"cpu"}
+{"name_product":" Intel Core i7-4860EQ @ 1.80GHz ","reiting":"  7,933     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2630L @ 2.00GHz ","reiting":"  7,868     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1268L v3 @ 2.30GHz ","reiting":"  7,850     ","type":"cpu"}
+{"name_product":" Intel Xeon X5660 @ 2.80GHz ","reiting":"  7,839     ","type":"cpu"}
+{"name_product":" Intel Core i5-6600 @ 3.30GHz ","reiting":"  7,831     ","type":"cpu"}
+{"name_product":" Intel Core i7-4710HQ @ 2.50GHz ","reiting":"  7,814     ","type":"cpu"}
+{"name_product":" AMD Opteron 6328 ","reiting":"  7,813     ","type":"cpu"}
+{"name_product":" AMD FX-8370E Eight-Core ","reiting":"  7,787     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2630L v3 @ 1.80GHz ","reiting":"  7,767     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1225 v5 @ 3.30GHz ","reiting":"  7,765     ","type":"cpu"}
+{"name_product":" Intel Core i5-6402P @ 2.80GHz ","reiting":"  7,764     ","type":"cpu"}
+{"name_product":" Intel Core i7-4700HQ @ 2.40GHz ","reiting":"  7,762     ","type":"cpu"}
+{"name_product":" Intel Core i5-4690K @ 3.50GHz ","reiting":"  7,756     ","type":"cpu"}
+{"name_product":" AMD FX-8310 Eight-Core ","reiting":"  7,753     ","type":"cpu"}
+{"name_product":" Intel Core i5-7440HQ @ 2.80GHz ","reiting":"  7,748     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1265L V2 @ 2.50GHz ","reiting":"  7,745     ","type":"cpu"}
+{"name_product":" Intel Core i7-4700MQ @ 2.40GHz ","reiting":"  7,716     ","type":"cpu"}
+{"name_product":" Intel Core i5-5675R @ 3.10GHz ","reiting":"  7,687     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1235 @ 3.20GHz ","reiting":"  7,685     ","type":"cpu"}
+{"name_product":" AMD FX-8300 Eight-Core ","reiting":"  7,667     ","type":"cpu"}
+{"name_product":" AMD FX-8150 Eight-Core ","reiting":"  7,624     ","type":"cpu"}
+{"name_product":" Intel Core i5-4670K @ 3.40GHz ","reiting":"  7,614     ","type":"cpu"}
+{"name_product":" Intel Core i5-4690 @ 3.50GHz ","reiting":"  7,595     ","type":"cpu"}
+{"name_product":" Intel Core i7-3630QM @ 2.40GHz ","reiting":"  7,594     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1220 v5 @ 3.00GHz ","reiting":"  7,590     ","type":"cpu"}
+{"name_product":" Intel Core i7-4785T @ 2.20GHz ","reiting":"  7,568     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1226 v3 @ 3.30GHz ","reiting":"  7,539     ","type":"cpu"}
+{"name_product":" Intel Core i7-4702HQ @ 2.20GHz ","reiting":"  7,530     ","type":"cpu"}
+{"name_product":" Intel Xeon X5650 @ 2.67GHz ","reiting":"  7,527     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1240L v3 @ 2.00GHz ","reiting":"  7,508     ","type":"cpu"}
+{"name_product":" AMD Opteron 6366 HE ","reiting":"  7,503     ","type":"cpu"}
+{"name_product":" AMD FX-8320E Eight-Core ","reiting":"  7,502     ","type":"cpu"}
+{"name_product":" Intel Core i7-4712HQ @ 2.30GHz ","reiting":"  7,494     ","type":"cpu"}
+{"name_product":" Intel Core i7-3610QM @ 2.30GHz ","reiting":"  7,463     ","type":"cpu"}
+{"name_product":" Intel Core i5-7400 @ 3.00GHz ","reiting":"  7,449     ","type":"cpu"}
+{"name_product":" Intel Core i5-4670K CPT @ 3.40GHz ","reiting":"  7,411     ","type":"cpu"}
+{"name_product":" Intel Core i7-3615QM @ 2.30GHz ","reiting":"  7,380     ","type":"cpu"}
+{"name_product":" Intel Core i5-4670 @ 3.40GHz ","reiting":"  7,373     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-1607 v4 @ 3.10GHz ","reiting":"  7,362     ","type":"cpu"}
+{"name_product":" Intel Core i5-4690S @ 3.20GHz ","reiting":"  7,360     ","type":"cpu"}
+{"name_product":" AMD Opteron 6238 ","reiting":"  7,316     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-1410 @ 2.80GHz ","reiting":"  7,312     ","type":"cpu"}
+{"name_product":" Intel Core i7-4765T @ 2.00GHz ","reiting":"  7,300     ","type":"cpu"}
+{"name_product":" Intel Core i5-5575R @ 2.80GHz ","reiting":"  7,278     ","type":"cpu"}
+{"name_product":" Intel Core i5-6600T @ 2.70GHz ","reiting":"  7,244     ","type":"cpu"}
+{"name_product":" Intel Core i7-4700EQ @ 2.40GHz ","reiting":"  7,229     ","type":"cpu"}
+{"name_product":" Intel Core i5-4590 @ 3.30GHz ","reiting":"  7,221     ","type":"cpu"}
+{"name_product":" Intel Core i7-2960XM @ 2.70GHz ","reiting":"  7,219     ","type":"cpu"}
+{"name_product":" Intel Core i5-6500 @ 3.20GHz ","reiting":"  7,212     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1230L v3 @ 1.80GHz ","reiting":"  7,207     ","type":"cpu"}
+{"name_product":" Intel Core i7-4712MQ @ 2.30GHz ","reiting":"  7,177     ","type":"cpu"}
+{"name_product":" Intel Core i5-3570K @ 3.40GHz ","reiting":"  7,144     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2420 @ 1.90GHz ","reiting":"  7,139     ","type":"cpu"}
+{"name_product":" Intel Xeon X5687 @ 3.60GHz ","reiting":"  7,138     ","type":"cpu"}
+{"name_product":" Intel Core i7-3615QE @ 2.30GHz ","reiting":"  7,133     ","type":"cpu"}
+{"name_product":" Intel Core i7-4702MQ @ 2.20GHz ","reiting":"  7,131     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1225 v3 @ 3.20GHz ","reiting":"  7,107     ","type":"cpu"}
+{"name_product":" Intel Core i7-2920XM @ 2.50GHz ","reiting":"  7,089     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1505L v5 @ 2.00GHz ","reiting":"  7,082     ","type":"cpu"}
+{"name_product":" Intel Core i7-2600S @ 2.80GHz ","reiting":"  7,076     ","type":"cpu"}
+{"name_product":" Intel Core i7-4770TE @ 2.30GHz ","reiting":"  7,065     ","type":"cpu"}
+{"name_product":" Intel Xeon E5649 @ 2.53GHz ","reiting":"  7,051     ","type":"cpu"}
+{"name_product":" Intel Core i5-4570 @ 3.20GHz ","reiting":"  7,051     ","type":"cpu"}
+{"name_product":" Intel Core i7-2860QM @ 2.50GHz ","reiting":"  7,049     ","type":"cpu"}
+{"name_product":" Intel Core i5-3570 @ 3.40GHz ","reiting":"  7,021     ","type":"cpu"}
+{"name_product":" Intel Xeon L5639 @ 2.13GHz ","reiting":"  7,021     ","type":"cpu"}
+{"name_product":" Intel Core i5-7500T @ 2.70GHz ","reiting":"  7,014     ","type":"cpu"}
+{"name_product":" Intel Xeon X5677 @ 3.47GHz ","reiting":"  6,984     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2609 v4 @ 1.70GHz ","reiting":"  6,983     ","type":"cpu"}
+{"name_product":" Intel Xeon D-1521 @ 2.40GHz ","reiting":"  6,980     ","type":"cpu"}
+{"name_product":" AMD FX-6350 Six-Core ","reiting":"  6,965     ","type":"cpu"}
+{"name_product":" Intel Core i5-4590S @ 3.00GHz ","reiting":"  6,949     ","type":"cpu"}
+{"name_product":" Intel Core i7-3632QM @ 2.20GHz ","reiting":"  6,931     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1220 v3 @ 3.10GHz ","reiting":"  6,925     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-1607 v3 @ 3.10GHz ","reiting":"  6,897     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2430 @ 2.20GHz ","reiting":"  6,878     ","type":"cpu"}
+{"name_product":" Intel Core i5-3550 @ 3.30GHz ","reiting":"  6,854     ","type":"cpu"}
+{"name_product":" Intel Core i5-3550S @ 3.00GHz ","reiting":"  6,834     ","type":"cpu"}
+{"name_product":" Intel Core i7-3612QM @ 2.10GHz ","reiting":"  6,823     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-1410 v2 @ 2.80GHz ","reiting":"  6,822     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1225 V2 @ 3.20GHz ","reiting":"  6,807     ","type":"cpu"}
+{"name_product":" Intel Core i3-7350K @ 4.20GHz ","reiting":"  6,782     ","type":"cpu"}
+{"name_product":" Intel Core i7-2840QM @ 2.40GHz ","reiting":"  6,766     ","type":"cpu"}
+{"name_product":" AMD Opteron 6272 ","reiting":"  6,748     ","type":"cpu"}
+{"name_product":" Intel Core i5-6400 @ 2.70GHz ","reiting":"  6,711     ","type":"cpu"}
+{"name_product":" Intel Core i5-2550K @ 3.40GHz ","reiting":"  6,699     ","type":"cpu"}
+{"name_product":" Intel Core i7-7567U @ 3.50GHz ","reiting":"  6,677     ","type":"cpu"}
+{"name_product":" Intel Core i5-4570S @ 2.90GHz ","reiting":"  6,675     ","type":"cpu"}
+{"name_product":" Intel Core i5-6440HQ @ 2.60GHz ","reiting":"  6,675     ","type":"cpu"}
+{"name_product":" AMD Opteron 4284 ","reiting":"  6,660     ","type":"cpu"}
+{"name_product":" Intel Core i5-4460 @ 3.20GHz ","reiting":"  6,654     ","type":"cpu"}
+{"name_product":" Intel Core i7-985 @ 3.47GHz ","reiting":"  6,641     ","type":"cpu"}
+{"name_product":" Intel Core i7-2820QM @ 2.30GHz ","reiting":"  6,637     ","type":"cpu"}
+{"name_product":" Intel Core i5-3570S @ 3.10GHz ","reiting":"  6,636     ","type":"cpu"}
+{"name_product":" Intel Core i5-7300HQ @ 2.50GHz ","reiting":"  6,634     ","type":"cpu"}
+{"name_product":" Intel Core i7-3635QM @ 2.40GHz ","reiting":"  6,633     ","type":"cpu"}
+{"name_product":" Intel Core i5-4570R @ 2.70GHz ","reiting":"  6,632     ","type":"cpu"}
+{"name_product":" Intel Core i7-2760QM @ 2.40GHz ","reiting":"  6,628     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2430L v2 @ 2.40GHz ","reiting":"  6,627     ","type":"cpu"}
+{"name_product":" Intel Core i5-3470 @ 3.20GHz ","reiting":"  6,609     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1220 V2 @ 3.10GHz ","reiting":"  6,594     ","type":"cpu"}
+{"name_product":" AMD FX-8120 Eight-Core ","reiting":"  6,582     ","type":"cpu"}
+{"name_product":" Intel Xeon E5645 @ 2.40GHz ","reiting":"  6,558     ","type":"cpu"}
+{"name_product":" Intel Core i5-4460S @ 2.90GHz ","reiting":"  6,548     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1260L @ 2.40GHz ","reiting":"  6,534     ","type":"cpu"}
+{"name_product":" Intel Xeon X5672 @ 3.20GHz ","reiting":"  6,507     ","type":"cpu"}
+{"name_product":" Intel Core i7-6822EQ @ 2.00GHz ","reiting":"  6,489     ","type":"cpu"}
+{"name_product":" Intel Core i3-7300 @ 4.00GHz ","reiting":"  6,482     ","type":"cpu"}
+{"name_product":" Intel Core i5-3450 @ 3.10GHz ","reiting":"  6,472     ","type":"cpu"}
+{"name_product":" Intel Core i7-3610QE @ 2.30GHz ","reiting":"  6,472     ","type":"cpu"}
+{"name_product":" Intel Core i5-2500K @ 3.30GHz ","reiting":"  6,459     ","type":"cpu"}
+{"name_product":" Intel Xeon L5640 @ 2.27GHz ","reiting":"  6,451     ","type":"cpu"}
+{"name_product":" Intel Core i5-7400T @ 2.40GHz ","reiting":"  6,450     ","type":"cpu"}
+{"name_product":" Intel Core i5-4440 @ 3.10GHz ","reiting":"  6,445     ","type":"cpu"}
+{"name_product":" Intel Core i3-7320 @ 4.10GHz ","reiting":"  6,439     ","type":"cpu"}
+{"name_product":" AMD FX-6330 Six-Core ","reiting":"  6,437     ","type":"cpu"}
+{"name_product":" Intel Core i5-4670S @ 3.10GHz ","reiting":"  6,436     ","type":"cpu"}
+{"name_product":" AMD Opteron 4280 ","reiting":"  6,430     ","type":"cpu"}
+{"name_product":" AMD Opteron 6174 ","reiting":"  6,412     ","type":"cpu"}
+{"name_product":" Intel Xeon W3580 @ 3.33GHz ","reiting":"  6,412     ","type":"cpu"}
+{"name_product":" Intel Core i5-4690T @ 2.50GHz ","reiting":"  6,410     ","type":"cpu"}
+{"name_product":" Intel Core i5-3475S @ 2.90GHz ","reiting":"  6,398     ","type":"cpu"}
+{"name_product":" Intel Xeon D-1520 @ 2.20GHz ","reiting":"  6,396     ","type":"cpu"}
+{"name_product":" AMD Opteron 3380 ","reiting":"  6,384     ","type":"cpu"}
+{"name_product":" AMD FX-6300 Six-Core ","reiting":"  6,354     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1235L v5 @ 2.00GHz ","reiting":"  6,352     ","type":"cpu"}
+{"name_product":" Intel Core i7-3612QE @ 2.10GHz ","reiting":"  6,340     ","type":"cpu"}
+{"name_product":" Intel Core i5-6500TE @ 2.30GHz ","reiting":"  6,304     ","type":"cpu"}
+{"name_product":" Intel Core i5-2500 @ 3.30GHz ","reiting":"  6,275     ","type":"cpu"}
+{"name_product":" Intel Core i5-4430 @ 3.00GHz ","reiting":"  6,272     ","type":"cpu"}
+{"name_product":" AMD PRO A12-8870 ","reiting":"  6,259     ","type":"cpu"}
+{"name_product":" Intel Core i5-3470S @ 2.90GHz ","reiting":"  6,255     ","type":"cpu"}
+{"name_product":" Intel Core i5-4670T @ 2.30GHz ","reiting":"  6,229     ","type":"cpu"}
+{"name_product":" AMD FX-6130 Six-Core ","reiting":"  6,215     ","type":"cpu"}
+{"name_product":" AMD PRO A12-9800 ","reiting":"  6,205     ","type":"cpu"}
+{"name_product":" Intel Core i7-975 @ 3.33GHz ","reiting":"  6,186     ","type":"cpu"}
+{"name_product":" Intel Xeon W5590 @ 3.33GHz ","reiting":"  6,183     ","type":"cpu"}
+{"name_product":" Intel Core i5-6500T @ 2.50GHz ","reiting":"  6,176     ","type":"cpu"}
+{"name_product":" Intel Xeon W3570 @ 3.20GHz ","reiting":"  6,165     ","type":"cpu"}
+{"name_product":" Intel Core i5-3450S @ 2.80GHz ","reiting":"  6,129     ","type":"cpu"}
+{"name_product":" Intel Core i5-2450P @ 3.20GHz ","reiting":"  6,119     ","type":"cpu"}
+{"name_product":" Intel Core i5-4440S @ 2.80GHz ","reiting":"  6,115     ","type":"cpu"}
+{"name_product":" Intel Core i7-2720QM @ 2.20GHz ","reiting":"  6,111     ","type":"cpu"}
+{"name_product":" AMD FX-6200 Six-Core ","reiting":"  6,111     ","type":"cpu"}
+{"name_product":" Intel Core i5-3350P @ 3.10GHz ","reiting":"  6,106     ","type":"cpu"}
+{"name_product":" AMD FX-8100 Eight-Core ","reiting":"  6,080     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1220 @ 3.10GHz ","reiting":"  6,065     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1265L @ 2.40GHz ","reiting":"  6,054     ","type":"cpu"}
+{"name_product":" Intel Core i5-3340 @ 3.10GHz ","reiting":"  6,040     ","type":"cpu"}
+{"name_product":" Intel Core i3-6320 @ 3.90GHz ","reiting":"  6,024     ","type":"cpu"}
+{"name_product":" Intel Core i5-6300HQ @ 2.30GHz ","reiting":"  6,017     ","type":"cpu"}
+{"name_product":" Intel Core i3-6098P @ 3.60GHz ","reiting":"  6,006     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-1607 v2 @ 3.00GHz ","reiting":"  6,005     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-1603 v3 @ 2.80GHz ","reiting":"  5,992     ","type":"cpu"}
+{"name_product":" Intel Xeon X5647 @ 2.93GHz ","reiting":"  5,980     ","type":"cpu"}
+{"name_product":" AMD Opteron 6234 ","reiting":"  5,979     ","type":"cpu"}
+{"name_product":" Intel Core i7-7560U @ 2.40GHz ","reiting":"  5,967     ","type":"cpu"}
+{"name_product":" Intel Xeon W3565 @ 3.20GHz ","reiting":"  5,961     ","type":"cpu"}
+{"name_product":" Intel Core i3-7100 @ 3.90GHz ","reiting":"  5,954     ","type":"cpu"}
+{"name_product":" Intel Xeon E3-1225 @ 3.10GHz ","reiting":"  5,954     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2609 v3 @ 1.90GHz ","reiting":"  5,949     ","type":"cpu"}
+{"name_product":" Intel Core i7-2670QM @ 2.20GHz ","reiting":"  5,926     ","type":"cpu"}
+{"name_product":" Intel Core i7-965 @ 3.20GHz ","reiting":"  5,892     ","type":"cpu"}
+{"name_product":" Intel Core i5-3330 @ 3.00GHz ","reiting":"  5,891     ","type":"cpu"}
+{"name_product":" Intel Core i5-2400 @ 3.10GHz ","reiting":"  5,887     ","type":"cpu"}
+{"name_product":" Intel Core i5-4430S @ 2.70GHz ","reiting":"  5,886     ","type":"cpu"}
+{"name_product":" Intel Core i7-960 @ 3.20GHz ","reiting":"  5,878     ","type":"cpu"}
+{"name_product":" Intel Core i5-3570T @ 2.30GHz ","reiting":"  5,877     ","type":"cpu"}
+{"name_product":" AMD FX-8140 Eight-Core ","reiting":"  5,854     ","type":"cpu"}
+{"name_product":" AMD PRO A10-8850B ","reiting":"  5,848     ","type":"cpu"}
+{"name_product":" Intel Core i5-7260U @ 2.20GHz ","reiting":"  5,846     ","type":"cpu"}
+{"name_product":" Intel Xeon W5580 @ 3.20GHz ","reiting":"  5,836     ","type":"cpu"}
+{"name_product":" Intel Core i3-6300 @ 3.80GHz ","reiting":"  5,818     ","type":"cpu"}
+{"name_product":" AMD Opteron 3365 ","reiting":"  5,803     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-1607 @ 3.00GHz ","reiting":"  5,785     ","type":"cpu"}
+{"name_product":" AMD Phenom II X6 1100T ","reiting":"  5,783     ","type":"cpu"}
+{"name_product":" Intel Core i5-6440EQ @ 2.70GHz ","reiting":"  5,778     ","type":"cpu"}
+{"name_product":" AMD Opteron 6212 ","reiting":"  5,776     ","type":"cpu"}
+{"name_product":" Intel Core i5-3335S @ 2.70GHz ","reiting":"  5,768     ","type":"cpu"}
+{"name_product":" AMD FX-6120 Six-Core ","reiting":"  5,746     ","type":"cpu"}
+{"name_product":" AMD A10-7890K ","reiting":"  5,744     ","type":"cpu"}
+{"name_product":" AMD PRO A10-9700 ","reiting":"  5,742     ","type":"cpu"}
+{"name_product":" AMD PRO A10-8770 ","reiting":"  5,742     ","type":"cpu"}
+{"name_product":" AMD A12-9800 ","reiting":"  5,737     ","type":"cpu"}
+{"name_product":" Intel Xeon X3480 @ 3.07GHz ","reiting":"  5,732     ","type":"cpu"}
+{"name_product":" Intel Xeon W3550 @ 3.07GHz ","reiting":"  5,730     ","type":"cpu"}
+{"name_product":" Intel Core i5-3340S @ 2.80GHz ","reiting":"  5,730     ","type":"cpu"}
+{"name_product":" Intel Core i5-2320 @ 3.00GHz ","reiting":"  5,725     ","type":"cpu"}
+{"name_product":" Intel Core i7-880 @ 3.07GHz ","reiting":"  5,686     ","type":"cpu"}
+{"name_product":" Intel Xeon X5570 @ 2.93GHz ","reiting":"  5,679     ","type":"cpu"}
+{"name_product":" Intel Xeon L5638 @ 2.00GHz ","reiting":"  5,674     ","type":"cpu"}
+{"name_product":" Intel Core i5-2380P @ 3.10GHz ","reiting":"  5,655     ","type":"cpu"}
+{"name_product":" AMD PRO A10-8750B ","reiting":"  5,653     ","type":"cpu"}
+{"name_product":" AMD Phenom II X6 1090T ","reiting":"  5,629     ","type":"cpu"}
+{"name_product":" Intel Core i5-3330S @ 2.70GHz ","reiting":"  5,621     ","type":"cpu"}
+{"name_product":" Intel Core i7-6567U @ 3.30GHz ","reiting":"  5,617     ","type":"cpu"}
+{"name_product":" Intel Core i7-2710QE @ 2.10GHz ","reiting":"  5,616     ","type":"cpu"}
+{"name_product":" AMD A10 PRO-7850B APU ","reiting":"  5,614     ","type":"cpu"}
+{"name_product":" AMD A10-8850 ","reiting":"  5,613     ","type":"cpu"}
+{"name_product":" Intel Core i7-950 @ 3.07GHz ","reiting":"  5,601     ","type":"cpu"}
+{"name_product":" Intel Core i7-7600U @ 2.80GHz ","reiting":"  5,581     ","type":"cpu"}
+{"name_product":" Intel Core i3-4370 @ 3.80GHz ","reiting":"  5,579     ","type":"cpu"}
+{"name_product":" AMD Athlon X4 880K ","reiting":"  5,571     ","type":"cpu"}
+{"name_product":" Intel Core i7-2630QM @ 2.00GHz ","reiting":"  5,546     ","type":"cpu"}
+{"name_product":" Intel Core i5-6400T @ 2.20GHz ","reiting":"  5,546     ","type":"cpu"}
+{"name_product":" Intel Core i7-2675QM @ 2.20GHz ","reiting":"  5,537     ","type":"cpu"}
+{"name_product":" AMD A10-7850K APU ","reiting":"  5,503     ","type":"cpu"}
+{"name_product":" Intel Core i5-4590T @ 2.00GHz ","reiting":"  5,500     ","type":"cpu"}
+{"name_product":" AMD A10-7870K ","reiting":"  5,498     ","type":"cpu"}
+{"name_product":" Intel Core i5-2310 @ 2.90GHz ","reiting":"  5,494     ","type":"cpu"}
+{"name_product":" Intel Core i7-2635QM @ 2.00GHz ","reiting":"  5,494     ","type":"cpu"}
+{"name_product":" AMD A8-8650 ","reiting":"  5,488     ","type":"cpu"}
+{"name_product":" AMD A10-9700 ","reiting":"  5,486     ","type":"cpu"}
+{"name_product":" Intel Xeon W3540 @ 2.93GHz ","reiting":"  5,479     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-1603 @ 2.80GHz ","reiting":"  5,478     ","type":"cpu"}
+{"name_product":" AMD Athlon X4 860K ","reiting":"  5,477     ","type":"cpu"}
+{"name_product":" AMD PRO A8-8650B ","reiting":"  5,476     ","type":"cpu"}
+{"name_product":" Intel Core i3-6100 @ 3.70GHz ","reiting":"  5,476     ","type":"cpu"}
+{"name_product":" Intel Core i7-875K @ 2.93GHz ","reiting":"  5,466     ","type":"cpu"}
+{"name_product":" Intel Core i3-4360 @ 3.70GHz ","reiting":"  5,462     ","type":"cpu"}
+{"name_product":" AMD Athlon X4 845 ","reiting":"  5,434     ","type":"cpu"}
+{"name_product":" Intel Xeon X5560 @ 2.80GHz ","reiting":"  5,426     ","type":"cpu"}
+{"name_product":" AMD A10 PRO-7800B APU ","reiting":"  5,424     ","type":"cpu"}
+{"name_product":" Intel Core i7-940 @ 2.93GHz ","reiting":"  5,419     ","type":"cpu"}
+{"name_product":" Intel Xeon X5550 @ 2.67GHz ","reiting":"  5,416     ","type":"cpu"}
+{"name_product":" Intel Pentium G4600 @ 3.60GHz ","reiting":"  5,411     ","type":"cpu"}
+{"name_product":" Intel Core i7-870 @ 2.93GHz ","reiting":"  5,406     ","type":"cpu"}
+{"name_product":" AMD FX-6100 Six-Core ","reiting":"  5,406     ","type":"cpu"}
+{"name_product":" Intel Pentium G4620 @ 3.70GHz ","reiting":"  5,404     ","type":"cpu"}
+{"name_product":" AMD Opteron 4332 HE ","reiting":"  5,401     ","type":"cpu"}
+{"name_product":" AMD Phenom II X6 1075T ","reiting":"  5,389     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-1603 v4 @ 2.80GHz ","reiting":"  5,375     ","type":"cpu"}
+{"name_product":" Intel Xeon W3530 @ 2.80GHz ","reiting":"  5,367     ","type":"cpu"}
+{"name_product":" AMD Opteron 6164 HE ","reiting":"  5,351     ","type":"cpu"}
+{"name_product":" Intel Xeon E5640 @ 2.67GHz ","reiting":"  5,345     ","type":"cpu"}
+{"name_product":" AMD PRO A8-9600 ","reiting":"  5,336     ","type":"cpu"}
+{"name_product":" Intel Core i5-2300 @ 2.80GHz ","reiting":"  5,308     ","type":"cpu"}
+{"name_product":" AMD FX-4350 Quad-Core ","reiting":"  5,296     ","type":"cpu"}
+{"name_product":" Intel Core i3-7100T @ 3.40GHz ","reiting":"  5,283     ","type":"cpu"}
+{"name_product":" AMD Athlon X4 870K ","reiting":"  5,282     ","type":"cpu"}
+{"name_product":" AMD Opteron 3280 ","reiting":"  5,271     ","type":"cpu"}
+{"name_product":" AMD A8-9600 ","reiting":"  5,270     ","type":"cpu"}
+{"name_product":" Intel Core i7-2715QE @ 2.10GHz ","reiting":"  5,262     ","type":"cpu"}
+{"name_product":" Intel Core i5-2500S @ 2.70GHz ","reiting":"  5,258     ","type":"cpu"}
+{"name_product":" Intel Core i7-7500U @ 2.70GHz ","reiting":"  5,253     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2603 v4 @ 1.70GHz ","reiting":"  5,247     ","type":"cpu"}
+{"name_product":" Intel Core i3-4340 @ 3.60GHz ","reiting":"  5,230     ","type":"cpu"}
+{"name_product":" AMD FX-870K Quad Core ","reiting":"  5,226     ","type":"cpu"}
+{"name_product":" AMD PRO A10-9700E ","reiting":"  5,221     ","type":"cpu"}
+{"name_product":" Intel Core i3-6300T @ 3.30GHz ","reiting":"  5,217     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2418L @ 2.00GHz ","reiting":"  5,202     ","type":"cpu"}
+{"name_product":" Intel Xeon X3470 @ 2.93GHz ","reiting":"  5,195     ","type":"cpu"}
+{"name_product":" AMD FX-4330 ","reiting":"  5,192     ","type":"cpu"}
+{"name_product":" Intel Core i7-930 @ 2.80GHz ","reiting":"  5,182     ","type":"cpu"}
+{"name_product":" AMD A10-8750 ","reiting":"  5,177     ","type":"cpu"}
+{"name_product":" Intel Core i3-4170 @ 3.70GHz ","reiting":"  5,167     ","type":"cpu"}
+{"name_product":" Intel Xeon E5630 @ 2.53GHz ","reiting":"  5,166     ","type":"cpu"}
+{"name_product":" AMD A10-7700K APU ","reiting":"  5,163     ","type":"cpu"}
+{"name_product":" Intel Xeon X3460 @ 2.80GHz ","reiting":"  5,143     ","type":"cpu"}
+{"name_product":" AMD Phenom II X6 1065T ","reiting":"  5,143     ","type":"cpu"}
+{"name_product":" AMD A8-7600 APU ","reiting":"  5,138     ","type":"cpu"}
+{"name_product":" Intel Core i5-7300U @ 2.60GHz ","reiting":"  5,136     ","type":"cpu"}
+{"name_product":" AMD A10-7860K ","reiting":"  5,128     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2603 v3 @ 1.60GHz ","reiting":"  5,087     ","type":"cpu"}
+{"name_product":" Intel Core i3-4330 @ 3.50GHz ","reiting":"  5,073     ","type":"cpu"}
+{"name_product":" AMD A8-7670K ","reiting":"  5,072     ","type":"cpu"}
+{"name_product":" AMD A10-7800 APU ","reiting":"  5,070     ","type":"cpu"}
+{"name_product":" Intel Xeon W3520 @ 2.67GHz ","reiting":"  5,064     ","type":"cpu"}
+{"name_product":" Intel Core i7-860 @ 2.80GHz ","reiting":"  5,060     ","type":"cpu"}
+{"name_product":" AMD FX-9830P ","reiting":"  5,053     ","type":"cpu"}
+{"name_product":" Intel Pentium G4560 @ 3.50GHz ","reiting":"  5,040     ","type":"cpu"}
+{"name_product":" Intel Core i5-6360U @ 2.00GHz ","reiting":"  5,038     ","type":"cpu"}
+{"name_product":" Intel Core i3-4160 @ 3.60GHz ","reiting":"  5,035     ","type":"cpu"}
+{"name_product":" AMD Opteron 4365 EE ","reiting":"  5,025     ","type":"cpu"}
+{"name_product":" Intel Core i5-6267U @ 2.90GHz ","reiting":"  5,014     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-4603 @ 2.00GHz ","reiting":"  5,014     ","type":"cpu"}
+{"name_product":" AMD Athlon X4 840 ","reiting":"  5,013     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2609 v2 @ 2.50GHz ","reiting":"  5,013     ","type":"cpu"}
+{"name_product":" AMD Phenom II X6 1055T ","reiting":"  5,011     ","type":"cpu"}
+{"name_product":" AMD FX-4320 ","reiting":"  5,010     ","type":"cpu"}
+{"name_product":" Intel Core i5-2405S @ 2.50GHz ","reiting":"  5,004     ","type":"cpu"}
+{"name_product":" AMD A8-7650K ","reiting":"  4,994     ","type":"cpu"}
+{"name_product":" AMD A10-6800B APU ","reiting":"  4,990     ","type":"cpu"}
+{"name_product":" Intel Core i7-4610M @ 3.00GHz ","reiting":"  4,979     ","type":"cpu"}
+{"name_product":" Intel Core i7-870S @ 2.67GHz ","reiting":"  4,969     ","type":"cpu"}
+{"name_product":" Intel Core i7-920 @ 2.67GHz ","reiting":"  4,967     ","type":"cpu"}
+{"name_product":" Intel Core i3-4570T @ 2.90GHz ","reiting":"  4,934     ","type":"cpu"}
+{"name_product":" Intel Core i7-5557U @ 3.10GHz ","reiting":"  4,930     ","type":"cpu"}
+{"name_product":" Intel Core i5-24050S @ 2.50GHz ","reiting":"  4,928     ","type":"cpu"}
+{"name_product":" Intel Core i5-4460T @ 1.90GHz ","reiting":"  4,928     ","type":"cpu"}
+{"name_product":" Intel Xeon X3450 @ 2.67GHz ","reiting":"  4,923     ","type":"cpu"}
+{"name_product":" Intel Core i7-6650U @ 2.20GHz ","reiting":"  4,913     ","type":"cpu"}
+{"name_product":" Intel Core i3-4150 @ 3.50GHz ","reiting":"  4,909     ","type":"cpu"}
+{"name_product":" Intel Core i5-2400S @ 2.50GHz ","reiting":"  4,908     ","type":"cpu"}
+{"name_product":" AMD FX-770K Quad-Core ","reiting":"  4,907     ","type":"cpu"}
+{"name_product":" AMD PRO A10-8770E ","reiting":"  4,901     ","type":"cpu"}
+{"name_product":" AMD A10-6800K APU ","reiting":"  4,894     ","type":"cpu"}
+{"name_product":" Intel Core i3-4350 @ 3.60GHz ","reiting":"  4,888     ","type":"cpu"}
+{"name_product":" Intel Xeon X5492 @ 3.40GHz ","reiting":"  4,884     ","type":"cpu"}
+{"name_product":" Intel Xeon E5620 @ 2.40GHz ","reiting":"  4,875     ","type":"cpu"}
+{"name_product":" AMD Opteron 6274 ","reiting":"  4,865     ","type":"cpu"}
+{"name_product":" AMD Embedded R-Series RX-421BD ","reiting":"  4,858     ","type":"cpu"}
+{"name_product":" Intel Xeon E5540 @ 2.53GHz ","reiting":"  4,857     ","type":"cpu"}
+{"name_product":" AMD Phenom II X6 1045T ","reiting":"  4,856     ","type":"cpu"}
+{"name_product":" Intel Core i3-6100T @ 3.20GHz ","reiting":"  4,846     ","type":"cpu"}
+{"name_product":" Intel Core i7-4578U @ 3.00GHz ","reiting":"  4,838     ","type":"cpu"}
+{"name_product":" AMD FX-4170 Quad-Core ","reiting":"  4,837     ","type":"cpu"}
+{"name_product":" AMD PRO A12-9800E ","reiting":"  4,835     ","type":"cpu"}
+{"name_product":" Intel Core i7-6560U @ 2.20GHz ","reiting":"  4,825     ","type":"cpu"}
+{"name_product":" AMD A8 PRO-7600B APU ","reiting":"  4,823     ","type":"cpu"}
+{"name_product":" Intel Core i7-4600M @ 2.90GHz ","reiting":"  4,812     ","type":"cpu"}
+{"name_product":" Intel Core i7-6600U @ 2.60GHz ","reiting":"  4,809     ","type":"cpu"}
+{"name_product":" Intel Core i5-4570T @ 2.90GHz ","reiting":"  4,794     ","type":"cpu"}
+{"name_product":" Intel Core i3-4130 @ 3.40GHz ","reiting":"  4,779     ","type":"cpu"}
+{"name_product":" Intel Core i7-860S @ 2.53GHz ","reiting":"  4,776     ","type":"cpu"}
+{"name_product":" Intel Core i5-4340M @ 2.90GHz ","reiting":"  4,764     ","type":"cpu"}
+{"name_product":" AMD Opteron 6128 ","reiting":"  4,742     ","type":"cpu"}
+{"name_product":" Intel Xeon X5667 @ 3.07GHz ","reiting":"  4,722     ","type":"cpu"}
+{"name_product":" AMD Phenom II X6 1035T ","reiting":"  4,715     ","type":"cpu"}
+{"name_product":" AMD FirePro A320 APU ","reiting":"  4,713     ","type":"cpu"}
+{"name_product":" Intel Core i5-7200U @ 2.50GHz ","reiting":"  4,712     ","type":"cpu"}
+{"name_product":" Intel Core i5-5287U @ 2.90GHz ","reiting":"  4,710     ","type":"cpu"}
+{"name_product":" AMD Opteron 2435 ","reiting":"  4,708     ","type":"cpu"}
+{"name_product":" Intel Xeon D-1518 @ 2.20GHz ","reiting":"  4,700     ","type":"cpu"}
+{"name_product":" Intel Xeon X3380 @ 3.16GHz ","reiting":"  4,697     ","type":"cpu"}
+{"name_product":" Intel Core i5-2500T @ 2.30GHz ","reiting":"  4,680     ","type":"cpu"}
+{"name_product":" Intel Xeon E5-2407 v2 @ 2.40GHz ","reiting":"  4,677     ","type":"cpu"}
+{"name_product":" Intel Xeon X5470 @ 3.33GHz ","reiting":"  4,670     ","type":"cpu"}
+{"name_product":" Intel Core i7-3540M @ 3.00GHz ","reiting":"  4,667     ","type":"cpu"}
+{"name_product":" AMD A10-6790K APU ","reiting":"  4,665     ","type":"cpu"}
+{"name_product":" Intel Core2 Extreme X9750 @ 3.16GHz ","reiting":"  4,651     ","type":"cpu"}
+{"name_product":" Intel Core2 Extreme X9775 @ 3.20GHz ","reiting":"  4,646     ","type":"cpu"}
+{"name_product":" AMD FX-4300 Quad-Core ","reiting":"  4,644     ","type":"cpu"}
+{"name_product":" Intel Core i3-4360T @ 3.20GHz ","reiting":"  4,643     ","type":"cpu"}
+{"name_product":" Intel Core2 Extreme X9770 @ 3.20GHz ","reiting":"  4,642     ","type":"cpu"}
+{"name_product":" AMD PRO A12-8870E ","reiting":"  4,631     ","type":"cpu"}
+{"name_product":" AMD Opteron 6136 ","reiting":"  4,631     ","type":"cpu"}
+{"name_product":" AMD A10-5800K APU ","reiting":"  4,631     ","type":"cpu"}
+{"name_product":" AMD FX-7600P APU ","reiting":"  4,627     ","type":"cpu"}
+{"name_product":" AMD FX-B4150 Quad-Core ","reiting":"  4,611     ","type":"cpu"}
