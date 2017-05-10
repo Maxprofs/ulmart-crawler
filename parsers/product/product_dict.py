@@ -12,6 +12,7 @@ class ProductDicts:
         "Тип поставки": "delivery_type",
         "Разъем": "socket",
         "Количество ядер": "core_number",
+        "Номинальная частота процессора, ГГц": "cpu_frequency",
         "Техпроцесс": "technology_process",
         "Объем": "volume",
         "Тип памяти": "type_ram",
